@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=navvolcysc&show_icons=true&count_private=true&theme=gruvbox&hide_border=true,contribs&bg_color=00000000">
 
 
-
+   <img src ="https://github.com/navvolcy/navvolcy/blob/output/github-contribution-grid-snake.svg">
   </p>
 
 
