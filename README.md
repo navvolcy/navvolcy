@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nav-l-volcy-336535177/)
+-  ⚡ Fun fact: League of legends is addictive!!
+-   🥅 2024 Goals: At least one commit in my github per day and complete porjects
+-   - 🔭 I’m currently studying to get better a ReactJS
 
 <!--
 **navvolcy/navvolcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/nav-l-volcy-336535177/
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
