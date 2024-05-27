@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nav-l-volcy-336535177/)
 -  ⚡ Fun fact: League of legends is addictive!!
--   🥅 2024 Goals: At least one commit in my github per day and complete projects
+-   🥅 2024 Goals: At least one commit and 5-8 contributions in my github per day and complete projects
 -   - 🔭 I’m currently studying to get better a ReactJS
 
 <!--
